@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="container">
-      <img alt="img algo" src="./assets/logo.png">
+      <img alt="img algo" width="200" src="https://vuejs.org/images/logo.png">
       <h1>Sudoku.js Vue</h1>
       <sudoku></sudoku>
     </div>
